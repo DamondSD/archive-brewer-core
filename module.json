@@ -19,6 +19,7 @@
   "styles": [
     "styles/brewer-core.css"
   ],
+  "url": "https://github.com/DamondSD/archive-brewer-core",
   "manifest": "https://r2.foundryvtt.com/packages-public/archive-brewer-core/module.json",
   "languages": [
     {

@@ -1,0 +1,38 @@
+{
+  "id": "archive-brewer-core",
+  "title": "Archive Brewer Core",
+  "description": "ABC",
+  "version": "1.0.0",
+  "protected": false,
+  "authors": [
+    {
+      "name": "Archive Brewer Core"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/brewer-core.css"
+  ],
+  "manifest": "https://r2.foundryvtt.com/packages-public/archive-brewer-core/module.json",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "flags": {
+    "socket": false
+  },
+  "relationships": {
+    "requires": [],
+    "recommends": []
+  }
+  
+}
